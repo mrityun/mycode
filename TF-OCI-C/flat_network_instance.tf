@@ -1,8 +1,8 @@
 # Configure the Oracle Cloud Infrastructure Classic provider
 provider "opc" {
   user            = "samik.sanyal@oracle.com"
-  password        = "Korente123!!"
-  identity_domain = "mpaasopsapaas"
+  password        = "passwordhere"
+  identity_domain = "idd_here"
   endpoint        = "https://compute.uscom-east-1.oraclecloud.com"
 }
 
